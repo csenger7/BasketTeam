@@ -38,3 +38,43 @@ C:\Users\FarkasZ\source\repos\BasketTeam\obj\Debug\BasketTeam.csproj.CoreCompile
 C:\Users\FarkasZ\source\repos\BasketTeam\obj\Debug\BasketTeam.csproj.Up2Date
 C:\Users\FarkasZ\source\repos\BasketTeam\obj\Debug\BasketTeam.exe
 C:\Users\FarkasZ\source\repos\BasketTeam\obj\Debug\BasketTeam.pdb
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\obj\Debug\BasketTeam.csproj.AssemblyReference.cache
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\obj\Debug\BasketTeam.csproj.CoreCompileInputs.cache
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\obj\Debug\BasketTeam.exe
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\obj\Debug\BasketTeam.pdb
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\BasketTeam.exe.config
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\BasketTeam.exe
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\BasketTeam.pdb
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\Google.Protobuf.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\MySql.Data.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Buffers.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Memory.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\ZstdSharp.dll
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\Google.Protobuf.pdb
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\Google.Protobuf.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\MySql.Data.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Buffers.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Memory.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lengyelcs\Desktop\BasketTeam másolata\obj\Debug\BasketTeam.csproj.Up2Date
